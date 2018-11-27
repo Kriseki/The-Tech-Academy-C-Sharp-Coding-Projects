@@ -1,0 +1,4 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
